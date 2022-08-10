@@ -46,4 +46,4 @@ def test_post_bookstore():
     logging.warning(f'Error, status code is {postbook.status_code}')
     assert postbook.status_code == 200
 
-    hhgdd
+    

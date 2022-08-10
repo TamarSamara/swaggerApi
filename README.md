@@ -1,20 +1,22 @@
-# How to Run Tests 
+# Book Store
 ### by tamar samara
 
 
-## test pet allure
-![alt text](allure_result_pet.png)
+## test Account allure
+![alt text](allure_account1.png)
 
-## test user allure
-![alt text](allure_result_user.png)
+![alt text](allure_account2.png)
 
-## test order allure
-![alt text](allure_result_order.png)
+
 
 ## You can run all passed tests:
 
-```pytest .\testPet.py -k passed```
+```sh
+pytest .\testPet.py -k passed
+```
 
 ## You can run all failed tests:
 
-```pytest .\testPet.py -k failed```
+```sh
+pytest .\testPet.py -k failed
+```

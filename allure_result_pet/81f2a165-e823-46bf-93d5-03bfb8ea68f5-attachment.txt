@@ -1,2 +1,0 @@
-Update an existing pet from my_cat to Small_Cat
-Successful update : my_cat

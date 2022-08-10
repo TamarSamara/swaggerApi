@@ -2,7 +2,7 @@
 ### by tamar samara
 
 
-## test Account allure
+## test Account allure:
 ![alt text](allure_account1.png)
 
 ![alt text](allure_account2.png)
